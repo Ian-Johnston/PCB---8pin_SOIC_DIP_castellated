@@ -1,0 +1,2 @@
+A custom 8-pin DIP to SMD board that's single sided and had castellated holes so that they could be soldered directly onto the main board.
+No need for pins/legs, the castellated holes mean you can solder in place over the original 8-pin footprint.

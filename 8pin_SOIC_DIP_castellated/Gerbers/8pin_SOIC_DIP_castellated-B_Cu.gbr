@@ -1,0 +1,48 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.1*%
+%TF.CreationDate,2025-04-10T10:30:44+01:00*%
+%TF.ProjectId,8pin_SOIC_DIP_castellated,3870696e-5f53-44f4-9943-5f4449505f63,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.1) date 2025-04-10 10:30:44*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.600000X1.600000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,1.600000X1.600000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,SOCKET1,1,1*%
+%TO.N,Net-(SOCKET1-Pad1)*%
+X144780000Y-93980000D03*
+D11*
+%TO.P,SOCKET1,2,2*%
+%TO.N,Net-(U2--)*%
+X144780000Y-96520000D03*
+%TO.P,SOCKET1,3,3*%
+%TO.N,Net-(U2-+)*%
+X144780000Y-99060000D03*
+%TO.P,SOCKET1,4,4*%
+%TO.N,Net-(U2-V-)*%
+X144780000Y-101600000D03*
+%TO.P,SOCKET1,5,5*%
+%TO.N,Net-(U2-NC)*%
+X152400000Y-101600000D03*
+%TO.P,SOCKET1,6,6*%
+%TO.N,Net-(SOCKET1-Pad6)*%
+X152400000Y-99060000D03*
+%TO.P,SOCKET1,7,7*%
+%TO.N,Net-(U2-V+)*%
+X152400000Y-96520000D03*
+%TO.P,SOCKET1,8,8*%
+%TO.N,Net-(SOCKET1-Pad8)*%
+X152400000Y-93980000D03*
+%TD*%
+M02*
